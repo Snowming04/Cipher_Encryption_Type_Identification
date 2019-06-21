@@ -12,5 +12,5 @@ python hash_identification.py
 Python 3
 
 - 效果展示：<br>
-![image](https://github.com/Snowming04/Cipher_Encryption_Type_Identification/blob/master/.png)
+![image](https://github.com/Snowming04/Cipher_Encryption_Type_Identification/blob/master/show.png)
 <br>
